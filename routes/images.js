@@ -20,6 +20,8 @@ router.get ("/images", (req, res) => {
             category: image.category,
             image: image.image,
             description: image.description,
+            cover: image.cover,
+            flipped: false
         };
     });
     res.status(200).json(strippedData);
