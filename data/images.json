@@ -1,58 +1,379 @@
-[ 
-    {
-       "id": "1",
-       "category": "Game of Thrones",
-       "image": "http://localhost:0914/images/arya.jpg",
-       "description": "arya",
-       "flipped": false
-    },
-    {
-        "id": "2",
-        "category": "Game of Thrones",
-        "image": "http://localhost:0914/images/cersai.jpg",
-        "description": "cersai",
-       "flipped": false
-     },
-     {
-        "id": "3",
-        "category": "Game of Thrones",
-        "image": "http://localhost:0914/images/daenerys.jpg",
-        "description": "daenerys",
-        "flipped": false
-     },
-     {
-        "id": "4",
-        "category": "Game of Thrones",
-        "image": "http://localhost:0914/images/jaime.jpg",
-        "description": "jaime",
-       "flipped": false
-     },
-     {
-        "id": "5",
-        "category": "Game of Thrones",
-        "image": "http://localhost:0914/images/john_snow.jpg",
-        "description": "john_snow",
-       "flipped": false
-     },
-     {
-        "id": "6",
-        "category": "Game of Thrones",
-        "image": "http://localhost:0914/images/rob.jpg",
-        "description": "rob",
-       "flipped": false
-     },
-     {
-        "id": "7",
-        "category": "Game of Thrones",
-        "image": "http://localhost:0914/images/sansa.jpg",
-        "description": "sansa",
-       "flipped": false
-     },
-     {
-        "id": "8",
-        "category": "Game of Thrones",
-        "image": "http://localhost:0914/images/tyrion.jpg",
-        "description": "tyrion",
-        "flipped": false
-     }
+[
+   {
+      "id": "1",
+      "category" : "game_of_thrones",
+      "images" : [
+         {
+            "id": "1",
+            "category": "Game of Thrones",
+            "image": "http://localhost:0914/images/game_of_thrones/arya.jpg",
+            "description": "Arya",
+            "flipped": false
+         },
+         {
+            "id": "2",
+            "category": "Game of Thrones",
+            "image": "http://localhost:0914/images/game_of_thrones/cersai.jpg",
+            "description": "Cersai",
+            "flipped": false
+         },
+         {
+            "id": "3",
+            "category": "Game of Thrones",
+            "image": "http://localhost:0914/images/game_of_thrones/daenerys.jpg",
+            "description": "Daenerys",
+            "flipped": false
+         },
+         {
+            "id": "4",
+            "category": "Game of Thrones",
+            "image": "http://localhost:0914/images/game_of_thrones/jaime.jpg",
+            "description": "Jaime",
+            "flipped": false
+         },
+         {
+            "id": "5",
+            "category": "Game of Thrones",
+            "image": "http://localhost:0914/images/game_of_thrones/john_snow.jpg",
+            "description": "John Snow",
+            "flipped": false
+         },
+         {
+            "id": "6",
+            "category": "Game of Thrones",
+            "image": "http://localhost:0914/images/game_of_thrones/rob.jpg",
+            "description": "Rob",
+            "flipped": false
+         },
+         {
+            "id": "7",
+            "category": "Game of Thrones",
+            "image": "http://localhost:0914/images/game_of_thrones/sansa.jpg",
+            "description": "Sansa",
+            "flipped": false
+         },
+         {
+            "id": "8",
+            "category": "Game of Thrones",
+            "image": "http://localhost:0914/images/game_of_thrones/tyrion.jpg",
+            "description": "Tyrion",
+            "flipped": false
+         }
+      ]
+   },
+
+   {
+      "id": "2",
+      "category" : "soccer_stars",
+      "images" : [
+         {
+            "id": "1",
+            "category": "Soccer stars",
+            "image": "http://localhost:0914/images/soccer_stars/benzema.jpg",
+            "description": "Benzema",
+            "flipped": false
+         },
+         {
+            "id": "2",
+            "category": "Soccer stars",
+            "image": "http://localhost:0914/images/soccer_stars/haaland.jpg",
+            "description": "Haaland",
+            "flipped": false
+         },
+         {
+            "id": "3",
+            "category": "Soccer stars",
+            "image": "http://localhost:0914/images/soccer_stars/kane.jpg",
+            "description": "Kane",
+            "flipped": false
+         },
+         {
+            "id": "4",
+            "category": "Soccer stars",
+            "image": "http://localhost:0914/images/soccer_stars/lewandowski.jpg",
+            "description": "Lewandowski",
+            "flipped": false
+         },
+         {
+            "id": "5",
+            "category": "Soccer stars",
+            "image": "http://localhost:0914/images/soccer_stars/mbappe.jpg",
+            "description": "Mbappe",
+            "flipped": false
+         },
+         {
+            "id": "6",
+            "category": "Soccer stars",
+            "image": "http://localhost:0914/images/soccer_stars/neymar.jpg",
+            "description": "Messi",
+            "flipped": false
+         },
+         {
+            "id": "7",
+            "category": "Soccer stars",
+            "image": "http://localhost:0914/images/soccer_stars/neymar.jpg",
+            "description": "Neymar",
+            "flipped": false
+         },
+         {
+            "id": "8",
+            "category": "Soccer stars",
+            "image": "http://localhost:0914/images/soccer_stars/salah.jpg",
+            "description": "Salah",
+            "flipped": false
+         }
+      ]
+   },
+
+   {
+      "id": "3",
+      "category" : "friends",
+      "images" : [
+         {
+            "id": "1",
+            "category": "friends",
+            "image": "http://localhost:0914/images/friends/chandler_bing.jpg",
+            "description": "Chandler Bing",
+            "flipped": false
+         },
+         {
+            "id": "2",
+            "category": "friends",
+            "image": "http://localhost:0914/images/friends/gunther.jpg",
+            "description": "Gunther",
+            "flipped": false
+         },
+         {
+            "id": "3",
+            "category": "friends",
+            "image": "http://localhost:0914/images/friends/janice.jpg",
+            "description": "Janice",
+            "flipped": false
+         },
+         {
+            "id": "4",
+            "category": "friends",
+            "image": "http://localhost:0914/images/friends/joey_tribbiani.jpg",
+            "description": "Joey Tribbiani",
+            "flipped": false
+         },
+         {
+            "id": "5",
+            "category": "friends",
+            "image": "http://localhost:0914/images/friends/monica_geller.jpg",
+            "description": "Monica Geller",
+            "flipped": false
+         },
+         {
+            "id": "6",
+            "category": "friends",
+            "image": "http://localhost:0914/images/friends/phoebe_buffay.jpg",
+            "description": "Phoebe Buffay",
+            "flipped": false
+         },
+         {
+            "id": "7",
+            "category": "friends",
+            "image": "http://localhost:0914/images/friends/rachel_green.jpg",
+            "description": "Rachel Green",
+            "flipped": false
+         },
+         {
+            "id": "8",
+            "category": "friends",
+            "image": "http://localhost:0914/images/friends/ross_green.jpg",
+            "description": "Ross Geller",
+            "flipped": false
+         }
+      ]
+   },
+
+   {
+      "id": "4",
+      "category" : "how_i_met_your_mother",
+      "images" : [
+         {
+            "id": "1",
+            "category": "How I Met Your Mother",
+            "image": "http://localhost:0914/images/game_of_thrones/arya.jpg",
+            "description": "arya",
+            "flipped": false
+         },
+         {
+            "id": "2",
+            "category": "How I Met Your Mother",
+            "image": "http://localhost:0914/images/game_of_thrones/cersai.jpg",
+            "description": "cersai",
+            "flipped": false
+         },
+         {
+            "id": "3",
+            "category": "How I Met Your Mother",
+            "image": "http://localhost:0914/images/game_of_thrones/daenerys.jpg",
+            "description": "daenerys",
+            "flipped": false
+         },
+         {
+            "id": "4",
+            "category": "How I Met Your Mother",
+            "image": "http://localhost:0914/images/game_of_thrones/jaime.jpg",
+            "description": "jaime",
+            "flipped": false
+         },
+         {
+            "id": "5",
+            "category": "How I Met Your Mother",
+            "image": "http://localhost:0914/images/game_of_thrones/john_snow.jpg",
+            "description": "john_snow",
+            "flipped": false
+         },
+         {
+            "id": "6",
+            "category": "How I Met Your Mother",
+            "image": "http://localhost:0914/images/game_of_thrones/rob.jpg",
+            "description": "rob",
+            "flipped": false
+         },
+         {
+            "id": "7",
+            "category": "How I Met Your Mother",
+            "image": "http://localhost:0914/images/game_of_thrones/sansa.jpg",
+            "description": "sansa",
+            "flipped": false
+         },
+         {
+            "id": "8",
+            "category": "How I Met Your Mother",
+            "image": "http://localhost:0914/images/game_of_thrones/tyrion.jpg",
+            "description": "tyrion",
+            "flipped": false
+         }
+      ]
+   },
+
+   {
+      "id": "5",
+      "category" : "suits",
+      "images" : [
+         {
+            "id": "1",
+            "category": "Suits",
+            "image": "http://localhost:0914/images/game_of_thrones/arya.jpg",
+            "description": "arya",
+            "flipped": false
+         },
+         {
+            "id": "2",
+            "category": "Suits",
+            "image": "http://localhost:0914/images/game_of_thrones/cersai.jpg",
+            "description": "cersai",
+            "flipped": false
+         },
+         {
+            "id": "3",
+            "category": "Suits",
+            "image": "http://localhost:0914/images/game_of_thrones/daenerys.jpg",
+            "description": "daenerys",
+            "flipped": false
+         },
+         {
+            "id": "4",
+            "category": "Suits",
+            "image": "http://localhost:0914/images/game_of_thrones/jaime.jpg",
+            "description": "jaime",
+            "flipped": false
+         },
+         {
+            "id": "5",
+            "category": "Suits",
+            "image": "http://localhost:0914/images/game_of_thrones/john_snow.jpg",
+            "description": "john_snow",
+            "flipped": false
+         },
+         {
+            "id": "6",
+            "category": "Suits",
+            "image": "http://localhost:0914/images/game_of_thrones/rob.jpg",
+            "description": "rob",
+            "flipped": false
+         },
+         {
+            "id": "7",
+            "category": "Suits",
+            "image": "http://localhost:0914/images/game_of_thrones/sansa.jpg",
+            "description": "sansa",
+            "flipped": false
+         },
+         {
+            "id": "8",
+            "category": "Suits",
+            "image": "http://localhost:0914/images/game_of_thrones/tyrion.jpg",
+            "description": "tyrion",
+            "flipped": false
+         }
+      ]
+   },
+
+   {
+      "id": "6",
+      "category" : "the_simpsons",
+      "images" : [
+         {
+            "id": "1",
+            "category": "The Simpsons",
+            "image": "http://localhost:0914/images/game_of_thrones/arya.jpg",
+            "description": "arya",
+            "flipped": false
+         },
+         {
+            "id": "2",
+            "category": "The Simpsons",
+            "image": "http://localhost:0914/images/game_of_thrones/cersai.jpg",
+            "description": "cersai",
+            "flipped": false
+         },
+         {
+            "id": "3",
+            "category": "The Simpsons",
+            "image": "http://localhost:0914/images/game_of_thrones/daenerys.jpg",
+            "description": "daenerys",
+            "flipped": false
+         },
+         {
+            "id": "4",
+            "category": "The Simpsons",
+            "image": "http://localhost:0914/images/game_of_thrones/jaime.jpg",
+            "description": "jaime",
+            "flipped": false
+         },
+         {
+            "id": "5",
+            "category": "The Simpsons",
+            "image": "http://localhost:0914/images/game_of_thrones/john_snow.jpg",
+            "description": "john_snow",
+            "flipped": false
+         },
+         {
+            "id": "6",
+            "category": "The Simpsons",
+            "image": "http://localhost:0914/images/game_of_thrones/rob.jpg",
+            "description": "rob",
+            "flipped": false
+         },
+         {
+            "id": "7",
+            "category": "The Simpsons",
+            "image": "http://localhost:0914/images/game_of_thrones/sansa.jpg",
+            "description": "sansa",
+            "flipped": false
+         },
+         {
+            "id": "8",
+            "category": "The Simpsons",
+            "image": "http://localhost:0914/images/game_of_thrones/tyrion.jpg",
+            "description": "tyrion",
+            "flipped": false
+         }
+      ]
+   }
 ]
