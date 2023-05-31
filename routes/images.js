@@ -26,7 +26,7 @@ router.get ("/categories/:category", (req, res) => {
     const categoryData = readCategoryData();
 
     const individualCategory = categoryData.filter((category) => { 
-        return category.category === req.params.category
+        return category.category.toLowerCase() === req.params.category.toLowerCase()
     });
     
     const individualData = individualCategory.map((category) => {
