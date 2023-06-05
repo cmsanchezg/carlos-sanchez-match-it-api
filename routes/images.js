@@ -25,19 +25,12 @@ router.get ("/categories/:category", (req, res) => {
     try {
     const categoryData = readCategoryData();
 
-    const individualCategory = categoryData.filter((category) => { 
+    const individualCategory = categoryData.find((category) => { 
         return category.category.toLowerCase() === req.params.category.toLowerCase()
     });
     
-    const individualData = individualCategory.map((category) => {
-        return {
-            id: category.id,
-            category: category.category,
-            images: category.images
-        };
-    })
-        if (individualData.length > 0) {
-        res.status(200).json(individualData);
+        if (individualCategory) {
+        res.status(200).json(individualCategory);
         } else {
             res.status(404).json({error: "Category not found"});
         }

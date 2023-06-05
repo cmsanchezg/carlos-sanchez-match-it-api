@@ -8,6 +8,7 @@
             "category": "Game of Thrones",
             "image": "http://localhost:0914/categories/game_of_thrones/arya.jpg",
             "description": "Arya",
+            "cover": "http://localhost:0914/categories/back_covers/throne_back_cover.jpg",
             "flipped": false
          },
          {
@@ -15,6 +16,7 @@
             "category": "Game of Thrones",
             "image": "http://localhost:0914/categories/game_of_thrones/cersai.jpg",
             "description": "Cersai",
+            "cover": "http://localhost:0914/categories/back_covers/throne_back_cover.jpg",
             "flipped": false
          },
          {
@@ -22,6 +24,7 @@
             "category": "Game of Thrones",
             "image": "http://localhost:0914/categories/game_of_thrones/daenerys.jpg",
             "description": "Daenerys",
+            "cover": "http://localhost:0914/categories/back_covers/throne_back_cover.jpg",
             "flipped": false
          },
          {
@@ -29,6 +32,7 @@
             "category": "Game of Thrones",
             "image": "http://localhost:0914/categories/game_of_thrones/jaime.jpg",
             "description": "Jaime",
+            "cover": "http://localhost:0914/categories/back_covers/throne_back_cover.jpg",
             "flipped": false
          },
          {
@@ -36,6 +40,7 @@
             "category": "Game of Thrones",
             "image": "http://localhost:0914/categories/game_of_thrones/john_snow.jpg",
             "description": "John Snow",
+            "cover": "http://localhost:0914/categories/back_covers/throne_back_cover.jpg",
             "flipped": false
          },
          {
@@ -43,6 +48,7 @@
             "category": "Game of Thrones",
             "image": "http://localhost:0914/categories/game_of_thrones/rob.jpg",
             "description": "Rob",
+            "cover": "http://localhost:0914/categories/back_covers/throne_back_cover.jpg",
             "flipped": false
          },
          {
@@ -50,6 +56,7 @@
             "category": "Game of Thrones",
             "image": "http://localhost:0914/categories/game_of_thrones/sansa.jpg",
             "description": "Sansa",
+            "cover": "http://localhost:0914/categories/back_covers/throne_back_cover.jpg",
             "flipped": false
          },
          {
@@ -57,6 +64,7 @@
             "category": "Game of Thrones",
             "image": "http://localhost:0914/categories/game_of_thrones/tyrion.jpg",
             "description": "Tyrion",
+            "cover": "http://localhost:0914/categories/back_covers/throne_back_cover.jpg",
             "flipped": false
          }
       ]
@@ -71,6 +79,7 @@
             "category": "Soccer Stars",
             "image": "http://localhost:0914/categories/soccer_stars/benzema.jpg",
             "description": "Benzema",
+            "cover": "http://localhost:0914/categories/back_covers/soccer_stars_cover.jpg",
             "flipped": false
          },
          {
@@ -78,6 +87,7 @@
             "category": "Soccer Stars",
             "image": "http://localhost:0914/categories/soccer_stars/haaland.jpg",
             "description": "Haaland",
+            "cover": "http://localhost:0914/categories/back_covers/soccer_stars_cover.jpg",
             "flipped": false
          },
          {
@@ -85,6 +95,7 @@
             "category": "Soccer Stars",
             "image": "http://localhost:0914/categories/soccer_stars/kane.jpg",
             "description": "Kane",
+            "cover": "http://localhost:0914/categories/back_covers/soccer_stars_cover.jpg",
             "flipped": false
          },
          {
@@ -92,6 +103,7 @@
             "category": "Soccer Stars",
             "image": "http://localhost:0914/categories/soccer_stars/lewandowski.jpg",
             "description": "Lewandowski",
+            "cover": "http://localhost:0914/categories/back_covers/soccer_stars_cover.jpg",
             "flipped": false
          },
          {
@@ -99,6 +111,7 @@
             "category": "Soccer Stars",
             "image": "http://localhost:0914/categories/soccer_stars/mbappe.jpg",
             "description": "Mbappe",
+            "cover": "http://localhost:0914/categories/back_covers/soccer_stars_cover.jpg",
             "flipped": false
          },
          {
@@ -106,6 +119,7 @@
             "category": "Soccer Stars",
             "image": "http://localhost:0914/categories/soccer_stars/neymar.jpg",
             "description": "Messi",
+            "cover": "http://localhost:0914/categories/back_covers/soccer_stars_cover.jpg",
             "flipped": false
          },
          {
@@ -113,6 +127,7 @@
             "category": "Soccer Stars",
             "image": "http://localhost:0914/categories/soccer_stars/neymar.jpg",
             "description": "Neymar",
+            "cover": "http://localhost:0914/categories/back_covers/soccer_stars_cover.jpg",
             "flipped": false
          },
          {
@@ -120,6 +135,7 @@
             "category": "Soccer Stars",
             "image": "http://localhost:0914/categories/soccer_stars/salah.jpg",
             "description": "Salah",
+            "cover": "http://localhost:0914/categories/back_covers/soccer_stars_cover.jpg",
             "flipped": false
          }
       ]
@@ -134,6 +150,7 @@
             "category": "Friends",
             "image": "http://localhost:0914/categories/friends/chandler_bing.jpg",
             "description": "Chandler Bing",
+            "cover": "http://localhost:0914/categories/back_covers/friends_cover.jpg",
             "flipped": false
          },
          {
@@ -141,6 +158,7 @@
             "category": "Friends",
             "image": "http://localhost:0914/categories/friends/gunther.jpg",
             "description": "Gunther",
+            "cover": "http://localhost:0914/categories/back_covers/friends_cover.jpg",
             "flipped": false
          },
          {
@@ -148,6 +166,7 @@
             "category": "Friends",
             "image": "http://localhost:0914/categories/friends/janice.jpg",
             "description": "Janice",
+            "cover": "http://localhost:0914/categories/back_covers/friends_cover.jpg",
             "flipped": false
          },
          {
@@ -155,6 +174,7 @@
             "category": "Friends",
             "image": "http://localhost:0914/categories/friends/joey_tribbiani.jpg",
             "description": "Joey Tribbiani",
+            "cover": "http://localhost:0914/categories/back_covers/friends_cover.jpg",
             "flipped": false
          },
          {
@@ -162,6 +182,7 @@
             "category": "Friends",
             "image": "http://localhost:0914/categories/friends/monica_geller.jpg",
             "description": "Monica Geller",
+            "cover": "http://localhost:0914/categories/back_covers/friends_cover.jpg",
             "flipped": false
          },
          {
@@ -169,6 +190,7 @@
             "category": "Friends",
             "image": "http://localhost:0914/categories/friends/phoebe_buffay.jpg",
             "description": "Phoebe Buffay",
+            "cover": "http://localhost:0914/categories/back_covers/friends_cover.jpg",
             "flipped": false
          },
          {
@@ -176,13 +198,15 @@
             "category": "Friends",
             "image": "http://localhost:0914/categories/friends/rachel_green.jpg",
             "description": "Rachel Green",
+            "cover": "http://localhost:0914/categories/back_covers/friends_cover.jpg",
             "flipped": false
          },
          {
             "id": "8",
             "category": "Friends",
-            "image": "http://localhost:0914/categories/friends/ross_green.jpg",
+            "image": "http://localhost:0914/categories/friends/ross_geller.jpg",
             "description": "Ross Geller",
+            "cover": "http://localhost:0914/categories/back_covers/friends_cover.jpg",
             "flipped": false
          }
       ]
@@ -195,57 +219,65 @@
          {
             "id": "1",
             "category": "How I Met Your Mother",
-            "image": "http://localhost:0914/images/game_of_thrones/arya.jpg",
-            "description": "arya",
+            "image": "http://localhost:0914/categories/how_i_met_your_mother/barney_stinson.jpg",
+            "description": "Barney Stinson",
+            "cover": "http://localhost:0914/categories/back_covers/how_i_met_your_mother_cover.jpg",
             "flipped": false
          },
          {
             "id": "2",
             "category": "How I Met Your Mother",
-            "image": "http://localhost:0914/images/game_of_thrones/cersai.jpg",
-            "description": "cersai",
+            "image": "http://localhost:0914/categories/how_i_met_your_mother/lyli_aldrin.jpg",
+            "description": "Lyli Aldrin",
+            "cover": "http://localhost:0914/categories/back_covers/how_i_met_your_mother_cover.jpg",
             "flipped": false
          },
          {
             "id": "3",
             "category": "How I Met Your Mother",
-            "image": "http://localhost:0914/images/game_of_thrones/daenerys.jpg",
-            "description": "daenerys",
+            "image": "http://localhost:0914/categories/how_i_met_your_mother/quinn.jpg",
+            "description": "Quinn",
+            "cover": "http://localhost:0914/categories/back_covers/how_i_met_your_mother_cover.jpg",
             "flipped": false
          },
          {
             "id": "4",
             "category": "How I Met Your Mother",
-            "image": "http://localhost:0914/images/game_of_thrones/jaime.jpg",
-            "description": "jaime",
+            "image": "http://localhost:0914/categories/how_i_met_your_mother/robin_scherbatsky.jpg",
+            "description": "Robin",
+            "cover": "http://localhost:0914/categories/back_covers/how_i_met_your_mother_cover.jpg",
             "flipped": false
          },
          {
             "id": "5",
             "category": "How I Met Your Mother",
-            "image": "http://localhost:0914/images/game_of_thrones/john_snow.jpg",
-            "description": "john_snow",
+            "image": "http://localhost:0914/categories/how_i_met_your_mother/ted_mosby.jpg",
+            "description": "Ted Mosby",
+            "cover": "http://localhost:0914/categories/back_covers/how_i_met_your_mother_cover.jpg",
             "flipped": false
          },
          {
             "id": "6",
             "category": "How I Met Your Mother",
-            "image": "http://localhost:0914/images/game_of_thrones/rob.jpg",
-            "description": "rob",
+            "image": "http://localhost:0914/categories/how_i_met_your_mother/tracy_mcconnell.jpg",
+            "description": "Tracy McConnell",
+            "cover": "http://localhost:0914/categories/back_covers/how_i_met_your_mother_cover.jpg",
             "flipped": false
          },
          {
             "id": "7",
             "category": "How I Met Your Mother",
-            "image": "http://localhost:0914/images/game_of_thrones/sansa.jpg",
-            "description": "sansa",
+            "image": "http://localhost:0914/categories/how_i_met_your_mother/victoria.jpg",
+            "description": "Victoria",
+            "cover": "http://localhost:0914/categories/back_covers/how_i_met_your_mother_cover.jpg",
             "flipped": false
          },
          {
             "id": "8",
             "category": "How I Met Your Mother",
-            "image": "http://localhost:0914/images/game_of_thrones/tyrion.jpg",
-            "description": "tyrion",
+            "image": "http://localhost:0914/categories/how_i_met_your_mother/marshall_eriksen.jpg",
+            "description": "Marshall Eriksen",
+            "cover": "http://localhost:0914/categories/back_covers/how_i_met_your_mother_cover.jpg",
             "flipped": false
          }
       ]
@@ -258,57 +290,65 @@
          {
             "id": "1",
             "category": "Suits",
-            "image": "http://localhost:0914/images/game_of_thrones/arya.jpg",
-            "description": "arya",
+            "image": "http://localhost:0914/categories/suits/daniel_hardman.jpg",
+            "description": "Daniel Hardman",
+            "cover": "http://localhost:0914/categories/back_covers/suits_cover.jpg",
             "flipped": false
          },
          {
             "id": "2",
             "category": "Suits",
-            "image": "http://localhost:0914/images/game_of_thrones/cersai.jpg",
-            "description": "cersai",
+            "image": "http://localhost:0914/categories/suits/donna_paulsen.jpg",
+            "description": "Donna Paulsen",
+            "cover": "http://localhost:0914/categories/back_covers/suits_cover.jpg",
             "flipped": false
          },
          {
             "id": "3",
             "category": "Suits",
-            "image": "http://localhost:0914/images/game_of_thrones/daenerys.jpg",
-            "description": "daenerys",
+            "image": "http://localhost:0914/categories/suits/harvey_specter.jpg",
+            "description": "Harvey Specter",
+            "cover": "http://localhost:0914/categories/back_covers/suits_cover.jpg",
             "flipped": false
          },
          {
             "id": "4",
             "category": "Suits",
-            "image": "http://localhost:0914/images/game_of_thrones/jaime.jpg",
-            "description": "jaime",
+            "image": "http://localhost:0914/categories/suits/jessica_pearson.jpg",
+            "description": "Jessica Pearson",
+            "cover": "http://localhost:0914/categories/back_covers/suits_cover.jpg",
             "flipped": false
          },
          {
             "id": "5",
             "category": "Suits",
-            "image": "http://localhost:0914/images/game_of_thrones/john_snow.jpg",
-            "description": "john_snow",
+            "image": "http://localhost:0914/categories/suits/katrina_bennet.jpg",
+            "description": "Katrina Bennet",
+            "cover": "http://localhost:0914/categories/back_covers/suits_cover.jpg",
             "flipped": false
          },
          {
             "id": "6",
             "category": "Suits",
-            "image": "http://localhost:0914/images/game_of_thrones/rob.jpg",
-            "description": "rob",
+            "image": "http://localhost:0914/categories/suits/louis_litt.jpg",
+            "description": "Louis Litt",
+            "cover": "http://localhost:0914/categories/back_covers/suits_cover.jpg",
             "flipped": false
          },
          {
             "id": "7",
             "category": "Suits",
-            "image": "http://localhost:0914/images/game_of_thrones/sansa.jpg",
-            "description": "sansa",
+            "image": "http://localhost:0914/categories/suits/mike_ross.jpg",
+            "description": "Mike Ross",
+            "cover": "http://localhost:0914/categories/back_covers/suits_cover.jpg",
             "flipped": false
          },
          {
             "id": "8",
             "category": "Suits",
-            "image": "http://localhost:0914/images/game_of_thrones/tyrion.jpg",
-            "description": "tyrion",
+            "image": "http://localhost:0914/categories/suits/rachel_zane.jpg",
+            "description": "Rachel Zane",
+            "cover": "http://localhost:0914/categories/back_covers/suits_cover.jpg",
             "flipped": false
          }
       ]
@@ -321,57 +361,65 @@
          {
             "id": "1",
             "category": "The Simpsons",
-            "image": "http://localhost:0914/images/game_of_thrones/arya.jpg",
-            "description": "arya",
+            "image": "http://localhost:0914/categories/the_simpsons/abe_simpson.jpg",
+            "description": "Abe Simpson",
+            "cover": "http://localhost:0914/categories/back_covers/the_simpsons_cover.jpg",
             "flipped": false
          },
          {
             "id": "2",
             "category": "The Simpsons",
-            "image": "http://localhost:0914/images/game_of_thrones/cersai.jpg",
-            "description": "cersai",
+            "image": "http://localhost:0914/categories/the_simpsons/bart_simpson.jpg",
+            "description": "Bart Simpson",
+            "cover": "http://localhost:0914/categories/back_covers/the_simpsons_cover.jpg",
             "flipped": false
          },
          {
             "id": "3",
             "category": "The Simpsons",
-            "image": "http://localhost:0914/images/game_of_thrones/daenerys.jpg",
-            "description": "daenerys",
+            "image": "http://localhost:0914/categories/the_simpsons/charles_montgomery_burns.jpg",
+            "description": "Charles Montgomery Burns",
+            "cover": "http://localhost:0914/categories/back_covers/the_simpsons_cover.jpg",
             "flipped": false
          },
          {
             "id": "4",
             "category": "The Simpsons",
-            "image": "http://localhost:0914/images/game_of_thrones/jaime.jpg",
-            "description": "jaime",
+            "image": "http://localhost:0914/categories/the_simpsons/lisa_simpson.jpg",
+            "description": "Lisa Simpson",
+            "cover": "http://localhost:0914/categories/back_covers/the_simpsons_cover.jpg",
             "flipped": false
          },
          {
             "id": "5",
             "category": "The Simpsons",
-            "image": "http://localhost:0914/images/game_of_thrones/john_snow.jpg",
-            "description": "john_snow",
+            "image": "http://localhost:0914/categories/the_simpsons/maggie_simpson.jpg",
+            "description": "Maggie Simpson",
+            "cover": "http://localhost:0914/categories/back_covers/the_simpsons_cover.jpg",
             "flipped": false
          },
          {
             "id": "6",
             "category": "The Simpsons",
-            "image": "http://localhost:0914/images/game_of_thrones/rob.jpg",
-            "description": "rob",
+            "image": "http://localhost:0914/categories/the_simpsons/marjorie_simpson.jpg",
+            "description": "Marjorie Simpson",
+            "cover": "http://localhost:0914/categories/back_covers/the_simpsons_cover.jpg",
             "flipped": false
          },
          {
             "id": "7",
             "category": "The Simpsons",
-            "image": "http://localhost:0914/images/game_of_thrones/sansa.jpg",
-            "description": "sansa",
+            "image": "http://localhost:0914/categories/the_simpsons/milhouse.jpg",
+            "description": "Milhouse",
+            "cover": "http://localhost:0914/categories/back_covers/the_simpsons_cover.jpg",
             "flipped": false
          },
          {
             "id": "8",
             "category": "The Simpsons",
-            "image": "http://localhost:0914/images/game_of_thrones/tyrion.jpg",
-            "description": "tyrion",
+            "image": "http://localhost:0914/categories/the_simpsons/homer_simpson.jpg",
+            "description": "Homer Simpson",
+            "cover": "http://localhost:0914/categories/back_covers/the_simpsons_cover.jpg",
             "flipped": false
          }
       ]
