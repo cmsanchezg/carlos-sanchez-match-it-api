@@ -117,7 +117,7 @@
          {
             "id": "6",
             "category": "Soccer Stars",
-            "image": "http://localhost:0914/categories/soccer_stars/neymar.jpg",
+            "image": "http://localhost:0914/categories/soccer_stars/messi.jpg",
             "description": "Messi",
             "cover": "http://localhost:0914/categories/back_covers/soccer_stars_cover.jpg",
             "flipped": false
@@ -227,7 +227,7 @@
          {
             "id": "2",
             "category": "How I Met Your Mother",
-            "image": "http://localhost:0914/categories/how_i_met_your_mother/lyli_aldrin.jpg",
+            "image": "http://localhost:0914/categories/how_i_met_your_mother/lily_aldrin.jpg",
             "description": "Lyli Aldrin",
             "cover": "http://localhost:0914/categories/back_covers/how_i_met_your_mother_cover.jpg",
             "flipped": false
